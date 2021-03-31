@@ -1,4 +1,4 @@
-package com.example.arithmetic_study.arrays.Code
+package com.example.arithmetic_study.arrays
 
 import org.junit.Test
 

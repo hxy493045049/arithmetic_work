@@ -21,11 +21,11 @@ class Code27 {
 
 
         for (cursor in nums.indices) {
-            if(nums[cursor]!=`val`){
-                nums[newIndex]=nums[cursor]
+            if (nums[cursor] != `val`) {
+                nums[newIndex] = nums[cursor]
                 newIndex++
             }
         }
-        return newIndex+1
+        return newIndex + 1
     }
 }
